@@ -4,7 +4,7 @@ For information on how to use this repository, see [Python](https://docs.microso
 
 | Example | Build status |
 |---------|--------------|
-| [![Build Status](https://dev.azure.com/zmilleson/1stPipe/_apis/build/status/zmilleson.pipelines-python-django?branchName=master)](https://dev.azure.com/zmilleson/1stPipe/_build/latest?definitionId=10?branchName=master) |
+| Pipeline Build | [![Build Status](https://dev.azure.com/zmilleson/1stPipe/_apis/build/status/zmilleson.pipelines-python-django?branchName=master)](https://dev.azure.com/zmilleson/1stPipe/_build/latest?definitionId=10?branchName=master) |
 
 # Contributing
 
